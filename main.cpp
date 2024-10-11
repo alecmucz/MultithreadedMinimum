@@ -13,7 +13,7 @@ int main() {
     int arr[20] = {0};
 
     for (int i = 0; i < sizeof(arr) / sizeof(arr[0]); ++i) {
-        arr[i] = rand();
+        arr[i] = rand() % 100;
     }
 
     for (int i = 0; i < sizeof(arr) / sizeof(arr[0]); ++i) {
