@@ -1,0 +1,3 @@
+/home/amucz0/DevProjects/Processes/cmake-build-debug/CMakeFiles/Processes.dir
+/home/amucz0/DevProjects/Processes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amucz0/DevProjects/Processes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
